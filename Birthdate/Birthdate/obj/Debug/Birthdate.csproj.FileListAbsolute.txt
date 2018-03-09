@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\bin\Debug\Birthdate.exe.config
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\bin\Debug\Birthdate.exe
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\bin\Debug\Birthdate.pdb
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\obj\Debug\Birthdate.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\obj\Debug\Birthdate.Form1.resources
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\obj\Debug\Birthdate.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\obj\Debug\Birthdate.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\obj\Debug\Birthdate.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\obj\Debug\Birthdate.exe
+C:\Users\Cyberadmin\Desktop\C# Projects\Birthdate\Birthdate\obj\Debug\Birthdate.pdb
